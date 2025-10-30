@@ -1,9 +1,21 @@
+
+https://github.com/user-attachments/assets/f13df974-7245-41f5-a8a7-a00ce3f95ed3
 # 🌸 Bloomly – AI-Powered PCOS Detection & Wellness Platform  
 
 > **Your Personalized Health Companion for Early PCOS Detection & Wellness Tracking**
 
 Bloomly is an intelligent, user-friendly web platform designed to empower women by predicting the likelihood of **Polycystic Ovary Syndrome (PCOS)** using machine learning — while also providing personalized wellness recommendations.  
 Built with a **React frontend** and a **Flask + MySQL backend**, Bloomly combines **AI-powered insights**, **secure authentication**, and a **beautiful user experience**.  
+
+---
+### Home Page, Detection Page
+https://github.com/user-attachments/assets/c130d4b9-d745-4a34-99fa-e6bdc2e8d808
+
+### Diet Page, Tracking Page
+https://github.com/user-attachments/assets/ea143d8c-b1db-40ff-a416-42b5134b793d
+
+### Wellness Page, Login & Sign up Pages
+https://github.com/user-attachments/assets/4b80571e-19ea-4ccf-976c-9ff6c74dc44d
 
 ---
 
