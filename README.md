@@ -1,5 +1,4 @@
 
-https://github.com/user-attachments/assets/f13df974-7245-41f5-a8a7-a00ce3f95ed3
 # 🌸 Bloomly – AI-Powered PCOS Detection & Wellness Platform  
 
 > **Your Personalized Health Companion for Early PCOS Detection & Wellness Tracking**
